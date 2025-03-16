@@ -10,6 +10,7 @@ Membuat skema ESP32 dengan sensor DHT11 sebelum implementasi nyata menggunakan a
 
 Dibawah merupakan rangkaian menggunakan **wokwi.com** dan code **C** sebelum implementasi dengan alat sungguhan:
 ![Alt Text](Images/Week%20-%202.png)
+Alat yang dibuat merupakan simulasi deteksi suhu dan kelembaban pada sebuah ruangan menggunakan sensor DHT11 ( DHT22 Pada wokwi ), kemudian mengembalikan nilai temperatur dan kelembaban pada terminal.
 
 ## Hasil:
 
